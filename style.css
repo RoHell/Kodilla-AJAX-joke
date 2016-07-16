@@ -1,0 +1,24 @@
+body {
+	width: 80%;
+	margin: 0 auto;
+}
+
+#get-joke {
+	border: 0;
+	border-radius: 4px;
+	background-color: orange;
+	padding: 10px;
+	font-size: 18px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	margin: 20px auto;
+	cursor: pointer;
+}
+
+#joke {
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 18px;
+	margin: 20 auto;
+}
